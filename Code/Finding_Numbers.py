@@ -50,7 +50,7 @@ CONTROL_TOKEN_STR = "dog"
 CATEGORY = "animal"
 NUM_SAMPLES = 15
 NUMBER_LENGTH = 3  # For autoregressive
-HF_TOKEN = "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"  # Replace with your token
+HF_TOKEN = "<HF_TOKEN>"  # Replace with your token
 
 # Load model
 MODEL_NAME = "meta-llama/Llama-3.2-1B-Instruct"
